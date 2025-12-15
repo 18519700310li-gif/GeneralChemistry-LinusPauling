@@ -22,16 +22,16 @@ This project is a Chinese translation and EPUB reconstruction of
 
 | Chapter | Title | Status |
 |--------|-------|--------|
-| Chapter 1 | Introduction | ✅ Completed |
-| Chapter 2 | Atoms and Molecules | ✅ Completed |
-| Chapter 3 | Stoichiometry | ✅ Completed |
-| Chapter 4 | Chemical Reactions | ✅ Completed |
-| Chapter 5 | Gases | ✅ Completed |
-| Chapter 6 | Thermochemistry | ✅ Completed |
-| Chapter 7 | Atomic Structure | ✅ Completed |
-| Chapter 8 | Chemical Bonding | ✅ Completed |
-| Chapter 9 | Molecular Structure | ✅ Completed |
-| **Chapter 10** | **Advanced Bonding Theory** | ✅ Completed |
+| Chapter 1 | The Nature and Properties of Matter | ✅ Completed |
+| Chapter 2 | The Atomic and Molecular Structure of Matter | ✅ Completed |
+| Chapter 3 | The Electron, the Nuclei of Atoms, and the Photon | ✅ Completed |
+| Chapter 4 | Elements and Compounds. Atomic and Molecular Masses | ✅ Completed |
+| Chapter 5 | Atomic Structure and the Periodic Table of the Elements | ✅ Completed |
+| Chapter 6 | The Chemical Bond | ✅ Completed |
+| Chapter 7 | The Nonmetallic Elements and Some of Their Compounds | ✅ Completed |
+| Chapter 8 | Oxygen Compounds of Nonmetallic Elements | ✅ Completed |
+| Chapter 9 | Gases: Quantum Mechanics and Statistical Mechanics | ✅ Completed |
+| **Chapter 10** | **Chemical Thermodynamics** | 🔧 Working |
 | Chapter 11+ | — | ⏳ Not Started |
 
 ---
