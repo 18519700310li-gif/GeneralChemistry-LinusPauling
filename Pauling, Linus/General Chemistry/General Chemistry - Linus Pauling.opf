@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fbfe7962-185e-47ca-8110-85d6b57404bb</dc:identifier>
+        <dc:title>General Chemistry</dc:title>
+        <dc:creator opf:file-as="Pauling, Linus" opf:role="aut">Linus Pauling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-24T00:17:09.943078+00:00</dc:date>
+        <dc:description>&lt;p&gt;"An excellent text, highly recommended.&lt;/p&gt;
+
+&lt;p&gt;" — ChoiceWhen it was first published, this first-year chemistry text revolutionized the teaching of chemistry by presenting it in terms of unifying principles instead of as a body of unrelated facts. Those principles included modern theories of atomic and molecular structure, quantum mechanics, statistical mechanics and thermodynamics. In addition, Dr. Pauling attempted to correlate the theories with descriptive chemistry, the observed properties of substances, to introduce the student to the multitude of chemical substances and their properties. In this extensively revised and updated third edition, the Nobel Prize–winning author maintains an excellent balance between theoretical and descriptive material, although the amount of descriptive chemistry has been decreased somewhat, and the presentation of the subject, especially in relation to the nonmetals, has been revised in such a way as to permit greater correlation with the electronic structure of atoms, especially electronegativity.&lt;/p&gt;
+
+&lt;p&gt;The principles of quantum mechanics are discussed on the basis of the de Broglie wavelength of the electron. The quantized energy levels of a particle in a box are derived by means of a simple assumption about the relation of the de Broglie waves to the walls of the box. No attempt is made to solve the Schrodinger wave equation for other systems, but the wave functions of hydrogen-like electrons are presented and discussed in some detail, and the quantum states for other systems are also covered. Statistical mechanics is introduced before thermodynamics, and the discussion of thermodynamics is based on it. This arrangement reflects the author's belief that beginning students can understand statistical mechanics better than chemical thermodynamics.&lt;/p&gt;
+
+&lt;p&gt;Aimed at first-year college students who plan to major in chemistry or closely related fields, the book is written in a logical, clear and understandable style. In addition, many excellent figures are included, along with numerous problems and 75 pages of appendixes covering such topics as symmetry of molecules and crystals, hybrid bond orbitals, and magnetic properties of substances.&lt;/p&gt;</dc:description>
+        <dc:publisher>Courier Corporation</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780486134659</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">FjKlBQAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Chemistry</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2025-10-10T06:26:58+00:00"/>
+        <meta name="calibre:title_sort" content="General Chemistry"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="General Chemistry - Linus Pauling.jpg"/>
+    </guide>
+</package>
