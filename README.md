@@ -1,0 +1,75 @@
+# General Chemistry（Linus Pauling）中文翻译计划  
+# Chinese Translation Project
+
+本项目是对 **Linus Pauling《General Chemistry》** 一书的中文翻译与电子书重制计划，目标是提供一份忠实、可读性强、适合系统学习的中文版本。
+
+This project is a Chinese translation and EPUB reconstruction of  
+**Linus Pauling's _General Chemistry_**, intended for non-commercial educational use.
+
+---
+
+##  EPUB 试读下载 / EPUB Preview Download
+
+**GitHub Releases**  
+**直接下载 / Direct Download:**  
+**https://github.com/18519700310li-gif/GeneralChemistry-LinusPauling/releases/latest/download/GeneralChemistry_CN_preview.epub**
+
+> 该链接始终指向最新发布的试读版本  
+> This link always points to the latest released preview EPUB.
+
+---
+
+## 翻译进度 / Translation Progress
+
+> 当前进度：**已翻译至第 10 章（Chapter 10）**
+
+| Chapter | Title | Status |
+|--------|-------|--------|
+| Chapter 1 | Introduction | ✅ Completed |
+| Chapter 2 | Atoms and Molecules | ✅ Completed |
+| Chapter 3 | Stoichiometry | ✅ Completed |
+| Chapter 4 | Chemical Reactions | ✅ Completed |
+| Chapter 5 | Gases | ✅ Completed |
+| Chapter 6 | Thermochemistry | ✅ Completed |
+| Chapter 7 | Atomic Structure | ✅ Completed |
+| Chapter 8 | Chemical Bonding | ✅ Completed |
+| Chapter 9 | Molecular Structure | ✅ Completed |
+| **Chapter 10** | **Advanced Bonding Theory** | ✅ Completed |
+| Chapter 11+ | — | ⏳ Not Started |
+
+---
+
+## 编译方式 / Build & Editing Workflow
+
+- 使用 **Calibre** 作为电子书管理与编辑工具
+- 通过 Calibre **直接编辑 EPUB 内部 HTML 文件**
+- 手工处理：
+  - 术语统一
+  - 数学与化学表达
+  - 段落结构与可读性
+
+目标是形成**接近教材出版质量的中文译本**，而非自动翻译文本。
+
+---
+
+## 汉化组 / Contact
+
+目前为个人主导翻译项目，欢迎交流、勘误与合作。
+
+**Email:**  
+**chongyan.li@bhsfic.com**
+
+---
+
+## ⚠️ 声明 / Disclaimer
+
+- 本项目为 **非商业、学习与研究用途**
+- 原书版权归 Linus Pauling 及原出版社所有
+- 若涉及版权或权利问题，将按要求调整或下架相关内容
+
+---
+
+## 致谢 / Acknowledgements
+
+感谢 Linus Pauling 对化学教育与理论化学的卓越贡献。  
+希望本翻译能帮助更多中文读者接触这本经典教材。
