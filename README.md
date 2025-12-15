@@ -12,7 +12,7 @@ This project is a Chinese translation and EPUB reconstruction of
 
 **GitHub Releases**  
 **直接下载 / Direct Download:**  
-**https://github.com/18519700310li-gif/GeneralChemistry-LinusPauling/releases/latest/download/GeneralChemistry_CN_preview.epub**
+**https://github.com/18519700310li-gif/GeneralChemistry-LinusPauling/releases/download/v0.1.1-preview/General.Chemistry.-.Linus.Pauling.epub**
 
 > 该链接始终指向最新发布的试读版本  
 > This link always points to the latest released preview EPUB.
@@ -41,8 +41,8 @@ This project is a Chinese translation and EPUB reconstruction of
 
 ## 编译方式 / Build & Editing Workflow
 
-- 使用 **Calibre** 作为电子书管理与编辑工具
-- 通过 Calibre **直接编辑 EPUB 内部 HTML 文件**
+- 使用 **Calibre** 作为电子书管理与编辑工具 / Use **Calibre** as the eBook management and editing tool
+- 通过 Calibre **直接编辑 EPUB 内部 HTML 文件** / Directly edit the HTML files within the EPUB using Calibre
 - 手工处理：
   - 术语统一
   - 数学与化学表达
@@ -54,7 +54,7 @@ This project is a Chinese translation and EPUB reconstruction of
 
 ## 汉化组 / Contact
 
-目前为个人主导翻译项目，欢迎交流、勘误与合作。
+目前为个人主导翻译项目，欢迎交流、勘误与合作。/ This is currently a self-led translation project; welcome corrections and collaborations.
 
 **Email:**  
 **chongyan.li@bhsfic.com**
@@ -63,9 +63,13 @@ This project is a Chinese translation and EPUB reconstruction of
 
 ## ⚠️ 声明 / Disclaimer
 
-- 本项目为 **非商业、学习与研究用途**
+- 本项目为 **非商业、学习与研究用途** 
 - 原书版权归 Linus Pauling 及原出版社所有
 - 若涉及版权或权利问题，将按要求调整或下架相关内容
+
+- This project is for **non-commercial, educational, and research purposes**
+- The original book's copyright belongs to Linus Pauling and the original publisher.
+- If any copyright or rights issues are involved, the relevant content will be adjusted or removed as required.
 
 ---
 
@@ -73,3 +77,6 @@ This project is a Chinese translation and EPUB reconstruction of
 
 感谢 Linus Pauling 对化学教育与理论化学的卓越贡献。  
 希望本翻译能帮助更多中文读者接触这本经典教材。
+
+We thank Linus Pauling for his outstanding contributions to chemistry education and theoretical chemistry.
+We hope this translation will help more Chinese readers access this classic textbook.
