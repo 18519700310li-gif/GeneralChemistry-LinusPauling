@@ -3,7 +3,7 @@
 
 本项目是对 **Linus Pauling General Chemistry** 一书的中文翻译与电子书重制计划。
 
-This project is a Chinese translation and EPUB reconstruction of  
+This project is a Chinese translation and PDF reconstruction of  
 **Linus Pauling's _General Chemistry_**, intended for non-commercial educational use.
 
 ---
