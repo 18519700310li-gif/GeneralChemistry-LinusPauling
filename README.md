@@ -8,11 +8,11 @@ This project is a Chinese translation and EPUB reconstruction of
 
 ---
 
-##  EPUB 试读下载 / EPUB Preview Download
+##  PDF 试读下载 / PDF Preview Download
 
 **GitHub Releases**  
 **直接下载 / Direct Download:**  
-**https://github.com/18519700310li-gif/GeneralChemistry-LinusPauling/releases/download/v0.1.1-preview/General.Chemistry.-.Linus.Pauling.epub**
+**https://github.com/18519700310li-gif/GeneralChemistry-LinusPauling/releases/download/v0.1.1-preview/General.Chemistry.-.Linus.Pauling.pdf**
 
 ---
 
@@ -39,7 +39,7 @@ This project is a Chinese translation and EPUB reconstruction of
 ## 编译方式 / Build & Editing Workflow
 
 - 使用 **Calibre** 作为电子书管理与编辑工具 / Use **Calibre** as the eBook management and editing tool
-- 通过 Calibre **直接编辑 EPUB 内部 HTML 文件** / Directly edit the HTML files within the EPUB using Calibre
+- 通过 Calibre **直接编辑 PDF 内部 HTML 文件** / Directly edit the HTML files within the PDF using Calibre
 - 手工处理：
   - 术语统一
   - 数学与化学表达
